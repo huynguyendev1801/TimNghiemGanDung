@@ -1,0 +1,7 @@
+Phuong phap lap don khong hoi tu sau 4 vong lap.
+Phuong phap lap Seidel da hoi tu sau 2 vong lap.
+Nghiem cua he phuong trinh la: 0.333333 1 1.8 
+Ma tran A la ma tran cheo troi
+Khong the ap dung phuong phap lap don hoac phuong phap lap Seidel vi ma tran A khong cheo troi.
+Khong the ap dung phuong phap lap don hoac phuong phap lap Seidel vi ma tran A khong cheo troi.
+Khong the ap dung phuong phap lap don hoac phuong phap lap Seidel vi ma tran A khong cheo troi.

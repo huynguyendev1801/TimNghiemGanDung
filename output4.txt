@@ -1,0 +1,2 @@
+Phuong phap lap don da hoi tu sau 11 vong lap voi X(k) thoa man: ||X(k) - X(k-1)|| <= e cho truoc.
+Nghiem cua he phuong trinh la: 0.655738 0.47541 1.44262 

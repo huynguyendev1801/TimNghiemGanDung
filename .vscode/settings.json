@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.asp": "asp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    }
+}
